@@ -1,0 +1,12 @@
+{
+  "codigo":"MAT101",
+  "nombre":"Matemáticas I",
+  "nombreCompleto":"Matemáticas I - Álgebra",
+  "descripcion":"Introducción al álgebra",
+  "areaConocimiento":"Ciencias Básicas",
+  "carrera":"Ingeniería",
+  "numeroCreditos":3,
+  "contenidoTematico":"Álgebra lineal",
+  "semestre":1,
+  "profesor":"P123"
+}
